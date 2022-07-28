@@ -1,0 +1,24 @@
+.img{
+    width: 150px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 700px;
+}
+#SB{
+    width: 450px;
+    margin-left: 730px;
+    height: 40px;
+    border-radius:20px;
+}
+.button{
+    margin-left: 850px;
+    margin-top: 15px;
+    border-radius: 16px;
+}
+.end{
+    text-align:center;
+    height: 60px;
+    background-color: lightgray;
+    margin-top: 200px;
+    overflow: hidden;
+}
